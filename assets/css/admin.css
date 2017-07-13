@@ -1,0 +1,94 @@
+.fl_install_wizard {
+
+	border-radius:5px;
+	box-shadow: 1px 1px 5px #666;
+	max-width:600px;
+	margin:auto;
+	padding:1em;
+	display:block;
+	padding-top:120px;
+	background:url('images/fl-logo.png') 50% 1em no-repeat #fff;
+	}.fl_install_wizard .form-table {
+		background:#fafafa;
+		border-top:1px solid #ccc;
+		border-bottom:1px solid #eee;
+		padding:2em 1em !important;
+		margin-bottom:2em;
+	}.fl_install_wizard h2 {
+		color: #77bc3b;
+	}.fl_install_wizard h3 {
+		background: #77bc3b;
+		padding:.5em;
+		color:#fff;
+	}.fl_install_wizard .form-table {
+		
+		
+	}
+
+.fl_button {
+  background: #e3e3e3;
+  border: 1px solid #bbb;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 0 1px 1px #f6f6f6;
+  box-shadow: inset 0 0 1px 1px #f6f6f6;
+  color: #333;
+  font: bold 12px/1 "helvetica neue", helvetica, arial, sans-serif;
+  padding: 8px 0 9px;
+  text-align: center;
+  text-shadow: 0 1px 0 #fff;
+  width: 150px; }
+  .fl_button:hover {
+    background: #d9d9d9;
+    -webkit-box-shadow: inset 0 0 1px 1px #eaeaea;
+    box-shadow: inset 0 0 1px 1px #eaeaea;
+    color: #222;
+    cursor: pointer; }
+  .fl_button:active {
+    background: #d0d0d0;
+    -webkit-box-shadow: inset 0 0 1px 1px #e3e3e3;
+    box-shadow: inset 0 0 1px 1px #e3e3e3;
+    color: #000; }
+
+
+#tabs li {
+	float:left;
+	border:1px solid #ccc;
+	border-bottom:0;
+	padding:1em;
+	margin:0 1em 0 0 ; 
+	background:#eee;
+}
+#tabs > div {
+	border:1px solid #ccc;
+	clear:both;
+	padding:1em;
+	margin-bottom:1em;
+}
+
+#tabs li[aria-selected="true"]  {
+	background:none;	
+}
+
+#icon-fixtures_live_plugin.icon32 {
+	background:url('images/fl-32.png') 0 0 no-repeat;
+}
+
+
+
+
+#comps li {
+	background:#eee;
+	margin:2px;
+	padding:.5%;
+	font-size:90%;
+	display:inline-block;
+	width:30%;
+}
+
+
+
+.system_box {
+	border:1px solid #ccc;
+	padding:1em;
+	border-radius:5px;
+}
